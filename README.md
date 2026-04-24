@@ -8,7 +8,7 @@ I'm interested in the intersection of **systems and machine learning** — build
 
 ## 🔭 What I'm Working On
 
-- **Parallel Transformer (C++/CUDA/MPI)** — Implementing a transformer LM from scratch with custom tiled GEMM, fused attention kernels, and MPI-based distributed training. No PyTorch. No shortcuts.
+- **Parallel Transformer for Knitting Pattern Generation (C++/CUDA/MPI)** — Implementing a transformer LM from scratch with custom tiled GEMM, fused attention kernels, and MPI-based distributed training. No PyTorch. No shortcuts.
 - Exploring ML applications in sports analytics and structured prediction
 
 ---
@@ -36,7 +36,7 @@ I'm interested in the intersection of **systems and machine learning** — build
 
 ## 📌 Featured Projects
 
-### 🔧 [Parallel Transformer — CUDA/C++/MPI](https://github.com/eellington3/Parallel-Transformer-for-Knitting-Pattern-Generation)
+### 🔧 [Parallel Transformer for Knitting Pattern Generation — CUDA/C++/MPI](https://github.com/eellington3/Parallel-Transformer-for-Knitting-Pattern-Generation)
 > Transformer LM built from scratch in CUDA/C++ with custom fused kernels and MPI distributed training
 
 - Custom tiled GEMM, softmax reduction, and fused attention kernels
