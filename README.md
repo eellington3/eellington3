@@ -43,7 +43,7 @@ I'm interested in the intersection of **systems and machine learning** — build
 - MPI data-parallel training with `MPI_Allreduce` gradient synchronization
 - Profiled with NVIDIA Nsight; strong/weak scaling benchmarks
 
-### 🏈 [Stanford Football Recruit Starter Prediction](link-to-repo)
+### 🏈 [Stanford Football Recruit Starter Prediction](https://github.com/eellington3/Stanford-Football-Recruit-Starter-Prediction)
 > End-to-end ML pipeline predicting whether a recruit becomes a starter within 2 years
 
 - 7K+ recruits; engineered features from rating differentials, position, and usage patterns
