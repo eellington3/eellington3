@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+My+Name+Is+Evan+👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+my+name+is+Evan+👋🏻)](https://git.io/typing-svg)
 
 I'm an MS student in **Computational and Mathematical Engineering at Stanford**, with a background in Applied Mathematics from UCLA. I spent two years at **Epic Systems** building and debugging large-scale healthcare infrastructure before coming back to focus on ML and high-performance computing.
 
