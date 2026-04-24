@@ -1,4 +1,4 @@
-# Hey, I'm Evan 👋
+[![Hey, I'm Evan 👋🏻](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 I'm an MS student in **Computational and Mathematical Engineering at Stanford**, with a background in Applied Mathematics from UCLA. I spent two years at **Epic Systems** building and debugging large-scale healthcare infrastructure before coming back to focus on ML and high-performance computing.
 
