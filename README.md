@@ -50,7 +50,7 @@ I'm interested in the intersection of **systems and machine learning** — build
 - Compared logistic regression, random forest, XGBoost; ensemble stacking for final model
 - Interpreted with SHAP values and permutation importance
 
-### 🏟️ [NFL Fantasy Points Predictor]([link-to-repo](https://github.com/eellington3/NFL-Fantasy-Points-Predictor)) 
+### 🏟️ [NFL Fantasy Points Predictor](https://github.com/eellington3/NFL-Fantasy-Points-Predictor)
 > End-to-end ML pipeline predicting player fantasy points across positions, with a full draft simulation framework
 
 - Trained and compared neural networks, SVR, random forest, gradient boosting, and XGBoost on multi-season, position-specific datasets
