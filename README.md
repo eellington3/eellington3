@@ -36,7 +36,7 @@ I'm interested in the intersection of **systems and machine learning** — build
 
 ## 📌 Featured Projects
 
-### 🔧 [Parallel Transformer for Knitting Pattern Generation — CUDA/C++/MPI](https://github.com/eellington3/Parallel-Transformer-for-Knitting-Pattern-Generation)
+### 🔧 [Parallel Transformer for Knitting Pattern Generation](https://github.com/eellington3/Parallel-Transformer-for-Knitting-Pattern-Generation)
 > Transformer LM built from scratch in CUDA/C++ with custom fused kernels and MPI distributed training
 
 - Custom tiled GEMM, softmax reduction, and fused attention kernels
