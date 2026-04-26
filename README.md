@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+my+name+is+Evan+👋🏻)](https://git.io/typing-svg)
 
-I'm an MS student in **Computational and Mathematical Engineering at Stanford**, with a background in Applied Mathematics from UCLA. I spent two years at **Epic Systems** building and debugging large-scale healthcare infrastructure before coming back to focus on ML and high-performance computing.
+I'm an MS student in Computational and Mathematical Engineering at Stanford, with a background in Applied Mathematics from UCLA. I spent two years at Epic Systems building and debugging large-scale healthcare infrastructure before coming back to focus on ML and high-performance computing.
 
-I'm interested in the intersection of **systems and machine learning** — building things that are not just accurate, but fast.
+I'm interested in the intersection of systems and machine learning — building things that are not just accurate, but fast.
 
 ---
 
@@ -54,7 +54,7 @@ I'm interested in the intersection of **systems and machine learning** — build
 > End-to-end ML pipeline predicting player fantasy points across positions, with a full draft simulation framework
 
 - Trained and compared neural networks, SVR, random forest, gradient boosting, and XGBoost on multi-season, position-specific datasets
-- Built a 12-team snake draft simulator pitting model predictions vs. ADP-based opponents — top models averaged **>1,000 point win margins**
+- Built a 12-team snake draft simulator pitting model predictions vs. ADP-based opponents — top models averaged >1,000 point win margins
 - Engineered position-aware architectures (separate vs. multi-positional NNs); optimized via hyperparameter tuning, regularization, and early stopping; evaluated with RMSE and R²
 
 ---
