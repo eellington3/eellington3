@@ -8,17 +8,12 @@ I'm interested in the intersection of systems and machine learning — building 
 
 ## 🔭 What I'm Working On
 
-- **Parallel Transformer for Knitting Pattern Generation (C++/CUDA/MPI)** — Implementing a transformer LM from scratch with custom tiled GEMM, fused attention kernels, and MPI-based distributed training. No PyTorch. No shortcuts.
-- Exploring ML applications in sports analytics and structured prediction
-
----
 
 ## 🛠 Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
@@ -29,19 +24,8 @@ I'm interested in the intersection of systems and machine learning — building 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**HPC**
-`MPI` · `NVIDIA Nsight` · `Roofline Analysis` · `Kernel Optimization` · `GPU Memory Hierarchy`
-
----
 
 ## 📌 Featured Projects
-
-### 🔧 [Parallel Transformer for Knitting Pattern Generation](https://github.com/eellington3/Parallel-Transformer-for-Knitting-Pattern-Generation)
-> Transformer LM built from scratch in CUDA/C++ with custom fused kernels and MPI distributed training
-
-- Custom tiled GEMM, softmax reduction, and fused attention kernels
-- MPI data-parallel training with `MPI_Allreduce` gradient synchronization
-- Profiled with NVIDIA Nsight; strong/weak scaling benchmarks
 
 ### 🏈 [Stanford Football Recruit Starter Prediction](https://github.com/eellington3/Stanford-Football-Recruit-Starter-Prediction)
 > End-to-end ML pipeline predicting whether a recruit becomes a starter within 2 years
